@@ -1,0 +1,32 @@
+#mainhead{
+    position: absolute;
+    width: 384px;
+    height: 61px;
+    left: 453px;
+    top: 15px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 56px;
+    color: #FFFDFD;
+}
+body{
+    position: relative;
+    width: 1042px;
+    height: 1417px;
+    background: #FEA904;
+}
+#rush{
+    position: absolute;
+    width: 313px;
+    height: 28px;
+    left: 477px;
+    top: 83px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #FEF2F2;
+}
