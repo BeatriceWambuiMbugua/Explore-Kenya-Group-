@@ -4,7 +4,7 @@ width: 424px;
 height: 84px;
 left: 187px;
 top: 151px;
-/* font-size: medium; */
+/* color: darkblue; */
 }
 #column{
 position: absolute;
@@ -13,3 +13,14 @@ height: 820px;
 left: 71px;
 top: 249px;
 }
+#email{
+    
+    position: absolute;
+    width: 720px;
+    height: 820px;
+    left: 71px;
+    top: 249px;
+}
+/* .style{ */
+    /* background-color: orange; */
+/* } */
