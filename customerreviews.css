@@ -1,0 +1,260 @@
+body{
+    background-image: url(pictures/sunset.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h10{
+    position: absolute;
+    width: 670px;
+    height: 42px;
+    left: 472px;
+    top: 150px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 46px;
+    line-height: 42px;
+    color: #FEF8F8;
+}
+#imagereview{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+#al{
+    position: absolute;
+    top: 250px;
+    left: 70px;
+    width: 300px;
+    height:300px;
+}
+#bu{
+    position: absolute;
+    top: 650px;
+    left: 70px;
+    width: 300px;
+    height:300px;
+}
+#ch{
+    position: absolute;
+    top: 1050px;
+    left: 70px;
+    width: 300px;
+    height:300px;
+}
+#ol{
+    position: absolute;
+    top: 1450px;
+    left: 70px;
+    width: 300px;
+    height:300px;
+}
+.one1{
+    position: absolute;
+    top: 350px;
+    left: 400px;
+    width: 750px;
+    height: 100px;
+    border: 2px solid #ccc;
+    background-color:goldenrod;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0;
+}
+  .one1::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+  
+  .one1 img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+  
+  .one1 span {
+    font-size: 20px;
+    margin-right: 15px;
+}
+  
+  @media (max-width: 500px) {
+    .one1 {
+      text-align: center;
+ }
+  
+    .one1 img {
+      margin: auto;
+      float: none;
+      display: block;
+ }
+  }
+  .two2{
+    position: absolute;
+    top: 750px;
+    left: 400px;
+    width: 750px;
+    height: 150px;
+    border: 2px solid #ccc;
+    background-color:goldenrod;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0;
+  }
+  .two2::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  
+  .two2 img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+  
+  .two2 span {
+    font-size: 20px;
+    margin-right: 15px;
+  }
+  
+   @media (max-width: 500px) {
+    .two2 {
+      text-align: center;
+    }
+  
+    .two2 img {
+      margin: auto;
+      float: none;
+      display: block;
+    }
+  }
+  .three3{
+    position: absolute;
+    top: 1150px;
+    left: 400px;
+    width: 750px;
+    height: 100px;
+    border: 2px solid #ccc;
+    background-color:goldenrod;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0;
+  }
+  .three3::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+ .three3 img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+  
+  .three3 span {
+    font-size: 20px;
+    margin-right: 15px;
+  }
+  @media (max-width: 500px) {
+    .three3 {
+      text-align: center;
+    }
+  
+    .three3 img {
+      margin: auto;
+      float: none;
+      display: block;
+    }
+  }
+  .four4{
+    position: absolute;
+    top: 1550px;
+    left: 400px;
+    width: 750px;
+    height: 100px;
+    border: 2px solid #ccc;
+    background-color:goldenrod;
+    border-radius: 5px;
+    padding: 16px;
+    margin: 16px 0;
+  }
+  .two2::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+ .four4 img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+  }
+  
+  .four4 span {
+    font-size: 20px;
+    margin-right: 15px;
+  }
+  @media (max-width: 500px) {
+    .four4 {
+      text-align: center;
+    }
+  
+    .four4 img {
+      margin: auto;
+      float: none;
+      display: block;
+    }
+  }
+  h15{
+    position: absolute;
+    width: 921px;
+    height: 56px;
+    top: 300px;
+    left: 400px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 56px;
+    color:goldenrod;
+  }
+  h16{
+    position: absolute;
+    width: 921px;
+    height: 56px;
+    top: 700px;
+    left: 400px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 56px;
+    color:goldenrod;
+  }
+  h17{
+    position: absolute;
+    width: 921px;
+    height: 56px;
+    top: 1100px;
+    left: 400px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 56px;
+    color:goldenrod;
+  }
+  h18{
+    position: absolute;
+    width: 921px;
+    height: 56px;
+    top: 1500px;
+    left: 400px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 56px;
+    color:goldenrod;
+  }
+  
