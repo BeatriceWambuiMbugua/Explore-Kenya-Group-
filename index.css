@@ -1,0 +1,44 @@
+body{
+    background-image: url(images/home\ 2.jpg);
+    color: white;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+.header{
+text-align: center;
+font-family: Roboto;
+font-style: italic;
+font-weight: bold;
+color: #FFFDFD;
+}
+h1{
+    font-size: 40px;
+    line-height: 40px;
+}
+h2{
+    font-size: 24px;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.content{
+    width: 400px;
+}
+.about{
+    padding: 50px;
+    text-align: center;
+    font-size: 24px;
+    background-color: black;
+    box-shadow: 10px 10px 10px 0px grey;
+    border-radius: 10px;
+    transition: all 2s ease;
+}
+.image{
+    padding-top: 50px;
+}
+.about:hover{
+    transform: scale(1.1);
+}
