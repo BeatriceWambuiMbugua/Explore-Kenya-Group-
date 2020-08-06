@@ -1,0 +1,22 @@
+.red{
+    position: absolute;
+    top: 120px;
+    font-family: Roboto;
+    font-style: italic;
+    font-size: 24px;
+    line-height: 42px;
+    color: white;
+}
+.red h4{
+    text-align: center;
+}
+.kapedo{
+    justify-content: space-around;
+    display: flex;  
+}
+body{
+    background-image: url(images/turkana.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}

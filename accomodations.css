@@ -1,0 +1,114 @@
+
+*{
+ background-repeat: no-repeat;
+ color:white;
+}
+.h1{
+    text-align: center;
+    font-weight: 500;
+    font-style: italic;
+    color:rgb(255, 166, 0);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+   position: relative;
+   top: 35px;
+}
+
+#hero{
+ background-image: url(images/vegard-eid-NwRoczUjr0g-unsplash.jpg);
+    background-size: cover;
+    background-color: rgb(17, 17, 11);
+}
+.card-title{
+    font-size: 40px;
+    color: #A57A27;
+    font-style: italic;
+}
+.card-text{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}#hero .column{
+    border: 0;
+    padding: 0 30px;
+    margin-top: 60px;
+    position: relative;
+    background: transparent;
+}
+img{
+    border-radius: 10%;
+}
+.reagan{
+position: absolute;
+width: 444px;
+height: 813px;
+left: 600px;
+top: 15rem;
+font-size: 30px;
+}
+.reagan h5{
+color: maroon;
+font-size: 40px;
+}
+
+.reagan ul{
+    border-radius: 10%;
+}
+.h6{
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h6 h6{
+    font-size: 30px;
+    color: #A57A27;
+}
+.owiti{
+    position: absolute;
+width: 444px;
+height: 813px;
+left: 600px;
+top: 50rem;
+font-size: 30px;
+}
+.owiti h5{
+    color: maroon;
+font-size: 40px;
+}
+.owiti ul{
+    border-radius: 10%;
+}
+.h7{
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h7 h7{
+    font-size: 30px;
+    color: #A57A27;
+    font-weight: 700;
+}
+.RO{
+    position: absolute;
+    width: 444px;
+    height: 813px;
+    left: 600px;
+    top: 90rem;
+    font-size: 30px; 
+}
+.RO h5{
+    color: maroon;
+font-size: 40px;
+}
+.RO ul{
+    border-radius: 10%;
+}
+.h8{
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.h8 h8{
+    font-size: 30px;
+    color: #A57A27;
+    font-weight: 700;
+}

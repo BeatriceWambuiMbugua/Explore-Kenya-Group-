@@ -1,0 +1,151 @@
+body{
+    background-image: url(pictures/pic1.jpeg);
+    background-size: cover;
+}
+h{
+    position: absolute;
+    width: 670px;
+    height: 42px;
+    left: 472px;
+    top: 150px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 56px;
+    line-height: 42px;
+    color: #FEF8F8;
+}
+h6{
+    position: absolute;
+    width: 596px;
+    height: 175px;
+    left: 146px;
+    top: 210px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+    color:gold;
+}
+h3{
+    position: absolute;
+    width: 596px;
+    height: 175px;
+    left: 146px;
+    top: 240px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 42px;
+    color:white;
+}
+#clothespic{
+    position: absolute;
+    width: 802px;
+    height: 348px;
+    left: 156px;
+    top: 300px;
+}
+h4{
+    position: absolute;
+    width: 399px;
+    height: 92px;
+    left: 518px;
+    top: 649px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 75px;
+    color:gold;
+}
+p1{
+    position: absolute;
+    width: 1015px;
+    height: 330px;
+    left: 152px;
+    top: 700px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 75px;
+    color:gold;
+}
+p{
+    position: absolute;
+    width: 896px;
+    height: 175px;
+    left: 166px;
+    top: 730px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 42px;
+    text-align: center;
+    color:white;
+}
+#travel2pic{
+    position: absolute;
+    width: 802px;
+    height: 348px;
+    left: 196px;
+    top: 1211px;
+}
+p2{
+    position: absolute;
+    width: 1015px;
+    height: 330px;
+    left: 142px;
+    top: 1700px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 75px;
+    color:gold;
+}
+p3{
+    position: absolute;
+    width: 896px;
+    height: 175px;
+    left: 166px;
+    top: 1730px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 42px;
+    text-align: center;
+    color:white;
+}
+h5{
+    position: absolute;
+    width: 399px;
+    height: 92px;
+    left: 518px;
+    top: 1650px;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 75px;
+    color:gold;
+}
+.header{
+    text-align: center;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    color: #FFFDFD;
+    }
+    h1{
+    font-size: 40px;
+    line-height: 40px;
+    }
+    h2{
+    font-size: 24px;
+    }

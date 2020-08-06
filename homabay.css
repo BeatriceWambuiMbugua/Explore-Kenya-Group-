@@ -1,0 +1,22 @@
+.takawiri{
+    position: absolute;
+    top: 120px;
+    font-family: Roboto;
+    font-style: italic;
+    font-size: 24px;
+    line-height: 42px;
+    color: white;
+}
+.takawiri h4{
+    text-align: center;
+}
+.homa{
+    justify-content: space-around;
+    display: flex;  
+}
+body{
+    background-image: url(images/homa.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
