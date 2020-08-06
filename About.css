@@ -1,0 +1,97 @@
+
+
+*{
+  background-color: rgb(17, 17, 11);
+    color: whitesmoke;
+    
+
+}
+
+#variety{
+  
+    bottom: 40px;   
+}
+.reg{
+    text-align: center;
+}
+.reg h2{
+    text-align: center;
+}
+.reg p{
+    text-align: center;
+    width: 100rem;
+}
+#hero{
+    text-align: justify;
+    top: 200px;
+}
+.heroo h1{
+   font-weight: bolder;
+   font-size: 70px;
+   color: rgb(240, 224, 6);
+    font-family:'Oswald', sans-serif;
+    text-align: center;
+}
+
+.hero h2{
+    font-weight: 600;
+    font-style: italic;
+    font-size: 30px; 
+    text-align: left;
+    color: white;
+}
+
+.container{
+  
+    text-align: center;
+
+}
+ .p1 p{
+    font-size: 25px;
+    width: 412px;
+    width: 11rem;
+    color:white;
+}
+.variety{
+   
+    padding-bottom: 40px;
+  
+}
+.varietry .card{
+    border: 0;
+    padding: 0 30px;
+    margin-bottom: 60px;
+    position: relative;
+    background: transparent;
+}
+.variety .card-img{
+    width: calc(100%+60px);
+    margin-left: -30px;
+    overflow:hidden;
+    z-index: 9;
+    border-radius: 0;
+}
+
+
+
+.teff{
+    color: rgb(255, 175, 1);
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 600;
+    text-align: center;
+}
+
+.card-b h5{
+color: rgba(240, 224, 6);
+}
+.card-body h5{
+    color: #A57A27;
+    font-size:30px ;
+    font-style: italic;
+    font-weight: bold;
+}
+
+img{
+    border-radius: 10%;
+}

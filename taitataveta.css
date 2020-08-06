@@ -1,0 +1,25 @@
+.chala{
+    position: absolute;
+    top: 120px;
+    font-family: Roboto;
+    font-style: italic;
+    font-size: 24px;
+    line-height: 42px;
+    color: black;
+}
+.chala h4{
+    text-align: center;
+}
+.chala h4:hover{
+    color: turquoise;
+}
+.cha{
+    justify-content: space-around;
+    display: flex;
+}
+body{
+    background-image: url(images/lake\ 2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
