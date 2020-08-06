@@ -1,0 +1,87 @@
+body{
+    background-image: url("https://images.unsplash.com/photo-1593249316123-77e7c3a60bde?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+    @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+    *{
+    border: 0;
+    margin: 0;
+    padding: 0px;
+    }
+    body{
+    background-color: black;
+    }
+    .header{
+    text-align: center;
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: bold;
+    color: #FFFDFD;
+    }
+    h1{
+    font-size: 40px;
+    line-height: 40px;
+    }
+    a {
+    text-decoration: none;
+    }
+    nav {
+    font-size: 24px;
+    }
+    nav ul li ul{
+    z-index: 1;
+    }
+    nav>ul {
+    text-align: right;
+    }
+    nav>ul>li {
+    display: inline-block;
+    }
+    ul {
+    background: black;
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    text-align: left;
+    }
+    li {
+    color: #fff;
+    background: black;
+    display: inline-block;
+    padding: 1rem;
+    position: relative;
+    text-decoration: none;
+    transition-duration: 0.5s;
+    }
+    li a {
+    color: #fff;
+    }
+    li:hover {
+    background: gold;
+    cursor: pointer;
+    }
+    ul li ul {
+    background:black;
+    visibility: hidden;
+    opacity: 0;
+    min-width: 5rem;
+    position: absolute;
+    transition: all 0.5s ease;
+    margin-top: 1rem;
+    left: 0;
+    display: none;
+    }
+    ul li:hover>ul,
+    ul li:focus-within>ul,
+    ul li ul:hover {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+    }
+    ul li ul li {
+    clear: both;
+    width: 100%;
+    }
+    
+    
